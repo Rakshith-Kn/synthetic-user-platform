@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.streamlit/secrets.toml
+database/chroma/
+*.db
+*.sqlite
+*.sqlite3
